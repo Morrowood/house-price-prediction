@@ -26,7 +26,7 @@ I conducted an experiment to evaluate the quality of models based on data withou
 - Missing values: 0
 - Duplicate rows: 0
 
-No omissions or duplicates were found. The amount of data is relatively small.
+> No omissions or duplicates were found. The amount of data is relatively small.
 
 ### Target variable
 - MedHouseVal
