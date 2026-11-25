@@ -8,8 +8,8 @@ I conducted an experiment on splitting the data into training and test samples.
     - [Notebook](../archive/bruteforce.ipynb)
     - [Note](../notes/bruteforce.md)
 2. Data Split
-    - [Notebook](../archive/scale.ipynb)
-    - [Note](../notes/scale.md)
+    - [Notebook](../archive/split.ipynb)
+    - [Note](../notes/split.md)
 
 ## Completed steps
 
